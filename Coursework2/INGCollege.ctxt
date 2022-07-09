@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=INGCollege
+comment1.params=
+comment1.target=void\ FirstForm()
+comment2.params=
+comment2.target=void\ SecondForm()
+comment3.params=args
+comment3.target=void\ main(java.lang.String[])
+comment4.params=
+comment4.target=void\ clearData1()
+comment5.params=
+comment5.target=void\ clearData2()
+comment6.params=e
+comment6.target=void\ actionPerformed(java.awt.event.ActionEvent)
+numComments=7
